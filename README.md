@@ -1,5 +1,7 @@
-# Deep-Recurrent-Generative-Decoder-for-Abstractive-Text-Summarization
-Code in progress
+# Deep Recurrent Generative Decoder for Abstractive Text Summarization
+
+Code is in Keras and is in progress
+
 
 This is implementation of paper link https://arxiv.org/abs/1708.00625
 
